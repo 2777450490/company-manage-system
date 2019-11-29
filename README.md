@@ -17,4 +17,4 @@
 4) 按回车等待执行完毕后查看对应目录生成的代码,根据自己的需求做更改
 * 同时生成多个表代码以逗号隔开，如：table_name1,table_name2
 ## 
-![avatar](timg.gif)
+![avatar](https://github.com/2777450490/company-manage-system/blob/master/timg.gif)
